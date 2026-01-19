@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = francois_del_peso@hotmail.com
+	name = Francois delPeso
